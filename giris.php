@@ -16,7 +16,7 @@ if(!($_POST['mail']==""))
         }
         else{
             echo "<script type='text/javascript'>alert('$message');</script>";
-            header("Refresh: 0.1; url=http://fesleen.gq/indexBootstrap.html"); 
+            header("Refresh: 0.1; url=https://yahyalom.github.io/WebT.Homework/indexBootstrap.html"); 
             
             exit();
         }
